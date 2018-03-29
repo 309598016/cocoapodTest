@@ -1,0 +1,23 @@
+PODS:
+  - FBSnapshotTestCase (2.1.4):
+    - FBSnapshotTestCase/SwiftSupport (= 2.1.4)
+  - FBSnapshotTestCase/Core (2.1.4)
+  - FBSnapshotTestCase/SwiftSupport (2.1.4):
+    - FBSnapshotTestCase/Core
+  - weixiaoguangCocoapod_test (0.1.0)
+
+DEPENDENCIES:
+  - FBSnapshotTestCase
+  - weixiaoguangCocoapod_test (from `../`)
+
+EXTERNAL SOURCES:
+  weixiaoguangCocoapod_test:
+    :path: ../
+
+SPEC CHECKSUMS:
+  FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
+  weixiaoguangCocoapod_test: 309dcd32be827e7a877496aa8e57456612b4e1a4
+
+PODFILE CHECKSUM: d81db0b9a14c6d05c1653bd5492d179a899f30bb
+
+COCOAPODS: 1.4.0

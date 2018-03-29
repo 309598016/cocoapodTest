@@ -25,7 +25,7 @@ TODO: Add long description of the pod here.
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'a309598016' => 'weixiaoguang123@qq.com' }
-  s.source           = { :git => 'https://github.com/a309598016/weixiaoguangCocoapod_test.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/309598016/cocoapodTest.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '8.0'

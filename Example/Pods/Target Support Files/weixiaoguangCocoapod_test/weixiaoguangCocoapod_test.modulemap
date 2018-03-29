@@ -1,0 +1,6 @@
+framework module weixiaoguangCocoapod_test {
+  umbrella header "weixiaoguangCocoapod_test-umbrella.h"
+
+  export *
+  module * { export * }
+}
