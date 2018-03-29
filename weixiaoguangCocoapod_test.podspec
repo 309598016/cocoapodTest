@@ -21,7 +21,7 @@ Pod::Spec.new do |s|
 TODO: Add long description of the pod here.
                        DESC
 
-  s.homepage         = 'https://github.com/a309598016/weixiaoguangCocoapod_test'
+  s.homepage         = 'https://github.com/309598016/cocoapodTest.git'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'a309598016' => 'weixiaoguang123@qq.com' }
