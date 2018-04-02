@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'weixiaoguangCocoapod_test'
-  s.version          = '0.1.1'
+  s.version          = '0.1.0'
   s.summary          = '用于cocoapod创建公共库学习'
 
 # This description is used to generate tags and improve search results.
